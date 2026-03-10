@@ -1,0 +1,11 @@
+flask
+flask-cors
+sentence-transformers
+torch
+faiss-cpu
+numpy
+pypdf
+python-docx
+rapidfuzz
+requests
+beautifulsoup4
